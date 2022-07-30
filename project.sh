@@ -1,1 +1,1 @@
-echo "this is second attemp uddbkjsdk"
+echo "this is second attemp"
